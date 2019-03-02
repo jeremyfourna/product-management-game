@@ -166,9 +166,9 @@ Disadvantage: ???
 
 ## Decrease estimation
 
-## Improve Team Spirit
+## Improve team spirit
 
-## Worsen Team Spirit
+## Worsen team spirit
 
 ## Customer strategic change
 
@@ -180,7 +180,7 @@ Disadvantage: ???
 
 ## Hire new QA
 
-## Design Sprint
+## Design sprint
 
 ## Be agile!
 
