@@ -20,6 +20,8 @@ If players are still equals after that... each player rolls a die, the one with 
 
 Repeat until one player wins.
 
+
+
 # Game length
 
 Up to 4 releases.
@@ -154,45 +156,78 @@ Advantages:
 
 Disadvantage: ???
 
+
+
 # Cards
 
 ## Flue infection
 
+The team productivity of an opponent is halfed this week.
+
 ## Team event
+
+Your team productivity is doubled this week.
 
 ## No internet
 
+You team productivity this week is 0. You can not progress on any features.
+
 ## Increase estimation
+
+The feature estimation from an opponent increase by 10 Men Days (MD). 
 
 ## Decrease estimation
 
+Reduce one of your feature estimations by 10 Men Days (MD).
+
 ## Improve team spirit
+
+You team spirit increase by 1 point.
 
 ## Worsen team spirit
 
+Decrease the team spirit of an opponent by 1 point.
+
 ## Customer strategic change
+
+Name a customer. Roll a die. All features from this customer that have the same number as the die are removed from the game. The customer does not want those features anymore.
 
 ## Crunch mode
 
+Select a player. This player team productivity is doubled this week. Decrease this player team spirit by 1 point.
+
 ## Steal a developer
+
+Steal a developer from another player. You can only steal a developper from someone who have a team spirit inferior to yours.
 
 ## Hire new developer
 
+Select a developper from the market and add her to your team. If the market for developper is empty, you can not play this card.
+
 ## Hire new QA
+
+Select a QA from the market and add her to your team. If the market for QA is empty, you can not play this card.
 
 ## Design sprint
 
-## Be agile!
+You can only play this card if you have features that do not have a work in progress. For all features that do not have a work in progress, reduce their estimations by 10 Men Days (MD). 
 
 ## Disagree
 
+Prevent the effects of the previous card played.
+
 ## The CEO disagree
+
+Prevent the effects of the previous card played. This card can not be prevented by another card "Disagree" or "The CEO disagree".
 
 ## Espionage
 
+Select a player. You can read the cards that she/he has in her/his hand.
+
 ## New competitor in town
 
-## Bug found during QA
+A competitor just opened a new office in your town. The competitor hire all the available developper and QA in the market.
+
 
 
 # Features
